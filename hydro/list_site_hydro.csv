@@ -1,0 +1,29 @@
+code_site,titre_graphique,seuil_DSA,seuil_DAR,seuil_DCR
+K6022420,L'Arnon à Loye-sur-Arnon,,,
+K6102430,L'Arnon à Mareuil-sur-Arnon,"0,62","0,52","0,41"
+K6173130,La Théols à Sainte-Lizaigne,"0,56","0,48","0,4"
+K6192420,L'Arnon à Méreau,"2,55","2,12","1,7"
+K6220910,Le Cher à Selles-sur-Cher,7,"6,25","5,5"
+K6593020,Le Fouzon à Meusnes,"0,7","0,6","0,49"
+K6710910,Le Cher à Tours,9,8,7
+K7022620,L'Indre à Montgivray,,,
+K7143010,La Vauvre à Montipouret,,,
+K7202610,L'Indre à Ardentes,"0,68","0,56","0,45"
+K7207510,La Ringoire à Déols,"0,57","0,48","0,38"
+K7217510,La Trégonce à Vineuil,"0,15","0,13","0,1"
+K7312610,L'Indre à Saint-Cyran-du-Jambot,"2,4",2,"1,6"
+K7322610,L'Indre à Perrusson,"1,45","1,38","1,3"
+K7433030,L'Indrois à Genillé,"0,44","0,36","0,29"
+K7522620,L'Indre à Monts,"2,7","2,55","2,2"
+L4653010,La Bouzanne à Velles - Forges,"0,45","0,38","0,3"
+L4730710,La Creuse au Blanc,"5,4","4,5","3,6"
+L5411810,La Gartempe à Montmorillon,"3,75","3,3","2,5"
+L5511910,L'Anglin à Prissac,"0,12","0,1","0,08"
+L5623010,La Benaize à Jouac,"0,25","0,2","0,18"
+L5670003,La Benaize à la Trimouille,,,
+L5733010,Le Salleron à Journet - Tervannes,"0,24","0,17","0,12"
+L5741920,L'Anglin à Angles-sur-l'Anglin,"1,65","1,3","1,1"
+L5801810,La Gartempe à la Roche-Posay et à Vicq-sur-Gartempe,"3,9","3,7","3,5"
+L6020710,La Creuse à Leugny,10,8,6
+L6210002,La Claise au Grand-Pressigny - Pont de Fer,"0,64","0,56","0,43"
+L6210003,L'Aigronne au Grand-Pressigny - Pont Saint Martin,"0,25","0,21","0,16"

@@ -1,0 +1,9 @@
+code_station,commune,departement,nappe,seuil_A,seuil_B,seuil_C
+04936X0010/f,Rians,Cher (18),MALM,"177,31","175,32","173,4"
+05202X0099/P,Etrechy,Cher (18),MALM,,,
+05203X0083/P,Villequiers,Cher (18),MALM,,,
+05205X0013/P,Savigny-en-Septaine,Cher (18),MALM,,,
+05464X0045/P,Plaimpied-Givaudins,Cher (18),MALM,"154,91","153,56","152,3"
+05472X0029/P,Osmery,Cher (18),MALM,,,
+05203X0083/P,Villequiers,Cher (18),Indicateur piezo,"168,85","167,7","166,5"
+05205X0013/P,Savigny-en-Septaine,Cher (18),Indicateur piezo,,,
