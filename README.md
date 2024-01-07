@@ -15,9 +15,10 @@ Pour utiliser pyhubeau, vous pouvez consulter les scripts **hydro_v3.py** et **p
 
 <h3>Exemples d'Utilisation</h3>
 
-from pyhubeau import RequestDataHubeau
 
 ```python
+from pyhubeau import RequestDataHubeau
+
 RDH = RequestDataHubeau()
 
 site_hydro_id = "K6022420"
