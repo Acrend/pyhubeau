@@ -17,6 +17,7 @@ Pour utiliser pyhubeau, vous pouvez consulter les scripts **hydro_v3.py** et **p
 
 from pyhubeau import RequestDataHubeau
 
+```python
 RDH = RequestDataHubeau()
 
 site_hydro_id = "K6022420"
@@ -24,13 +25,15 @@ station_piezo_id = "04936X0010/f"
 
 station_piezo_data = RDH.get_station_piezo_chroniques(station_piezo_id)
 site_hydro_data = RDH.get_hydro_obs_elab(site_hydro_id)
-
+```
 
 Pour obtenir la liste des sites hydrologiques et stations piézométriques :
 
+```python
 from pyhubeau import RequestDataHubeau
 
 RDH = RequestDataHubeau()
 
 site_hydro_info = RDH.get_site_hydro_info()
 station_piezo_info = RDH.get_station_piezo()
+```
